@@ -48,40 +48,40 @@ characters:
   - .
   - h
   - f
-  - ̾
   - q
+  - ̾
   - g
   - 
   - ꝑ
   - x
+  - ꝵ
   - E
   - I
-  - ꝵ
+  - '-'
+  - ꝰ
   - R
   - C
-  - ꝰ
-  - '-'
   - ꝓ
   - ͣ
-  - B
   - ͥ
+  - B
   - W
   - w
   - A
-  - S
   - y
-  - ':'
+  - S
   - ᷑
+  - ':'
   - T
   - N
   - G
+  - ̵
+  - ͦ
   - ̧
   - '&'
   - M
   - k
   - D
-  - ͦ
-  - ̵
   - ꝯ
   - H
   - P
@@ -90,18 +90,18 @@ characters:
   - z
   - Q
   - ¶
+  - ł
   - ͤ
   - ᷤ
+  - ꝙ
   - L
   - ꝭ
-  - ł
   - đ
   - ͭ
+  - ͨ
+  - ͧ
   - ͬ
   - ẜ
-  - ͧ
-  - ꝙ
-  - ͨ
   - '2'
   - '0'
   - ͫ
@@ -110,17 +110,17 @@ characters:
   - ÷
   - F
   - 
+  - '1'
   - X
   -  
   - K
+  - '4'
+  - '3'
   - 
   - 
   - '5'
   - '8'
   - 
-  - '1'
-  - '3'
-  - '4'
   - ð
   mode: NFD
 description: >-
@@ -159,11 +159,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/medieval-latin
 volume:
-- count: 110216
+- count: 117578
   metric: characters
-- count: 67
+- count: 72
   metric: files
-- count: 1869
+- count: 2140
   metric: lines
-- count: 190
+- count: 201
   metric: regions
