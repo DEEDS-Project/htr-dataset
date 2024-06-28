@@ -1,0 +1,334 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>63_29ed9_default.jpg</fileName>
+      <fileIdentifier>https://images.lib.cam.ac.uk/iiif/MS-ADD-03020-000-00064.jp2/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4490" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT13185" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1271" HEIGHT="2000" PHYSICAL_IMG_NR="6" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1271" HEIGHT="2000">
+        
+        <TextBlock HPOS="209" VPOS="168" WIDTH="948" HEIGHT="1444" ID="eSc_textblock_ac74ab91">
+          <Shape><Polygon POINTS="209 168 209 1612 1157 1612 1157 168"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_918f2da7" TAGREFS="LT13185" BASELINE="354 292 1075 307" HPOS="354" VPOS="267" WIDTH="721" HEIGHT="54">
+            <Shape><Polygon POINTS="777 273 766 273 755 273 743 273 732 273 721 273 710 273 699 272 688 272 684 272 678 273 671 272 666 272 654 272 643 272 632 272 626 272 624 273 613 272 610 272 599 272 588 272 577 272 566 272 554 272 543 272 532 271 521 271 510 271 499 271 488 271 477 271 465 271 454 271 443 271 432 271 421 271 410 271 399 271 388 271 376 271 365 271 364 267 354 267 354 292 354 299 1075 321 1075 307 1075 284 1054 275 1053 275 1051 275 867 278 789 273 788 273"/></Shape>
+	    <String CONTENT="aet tutan mersce. insuꝑ ⁊ .xiii. libͣs ꝓ pecunia appendit. ⁊ sic alt̾a" HPOS="354" VPOS="267" WIDTH="721" HEIGHT="54"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed656a66" TAGREFS="LT13185" BASELINE="358 317 830 332 1096 334" HPOS="356" VPOS="299" WIDTH="740" HEIGHT="46">
+            <Shape><Polygon POINTS="359 300 358 317 356 327 1096 345 1096 334 1095 316 982 314 928 315 898 322 871 310 851 316 832 314 818 312 800 310 785 315 767 314 750 310 737 309 728 308 717 308 711 308 706 308 698 308 689 311 682 311 675 312 669 313 659 311 644 307 633 309 619 311 607 309 592 307 580 305 564 305 548 300 529 305 501 302 491 301 455 302 416 299"/></Shape>
+	    <String CONTENT="uice niwantun m̾cando adquisiuit. Leofstan qͥda miles ob patrocini" HPOS="356" VPOS="299" WIDTH="740" HEIGHT="46"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dcf9109" TAGREFS="LT13185" BASELINE="359 343 1068 358" HPOS="357" VPOS="324" WIDTH="714" HEIGHT="43">
+            <Shape><Polygon POINTS="357 352 1066 367 1068 358 1071 345 360 324 359 343"/></Shape>
+	    <String CONTENT="um sui muniminis Ep̃o mansam ac dimidiam ĩ Tutan merse" HPOS="357" VPOS="324" WIDTH="714" HEIGHT="43"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2611837" TAGREFS="LT13185" BASELINE="355 372 1081 384" HPOS="354" VPOS="351" WIDTH="729" HEIGHT="48">
+            <Shape><Polygon POINTS="354 381 1080 399 1081 384 1083 365 995 367 881 366 853 365 827 359 775 361 667 359 650 360 644 360 629 364 619 357 602 354 588 353 571 355 564 353 541 354 512 355 489 354 355 351 355 372"/></Shape>
+	    <String CONTENT="gͣtuite dedit. dimidiã u̾o mansam a quadã uidua comꝑuit. unã" HPOS="354" VPOS="351" WIDTH="729" HEIGHT="48"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1bc4c3c" TAGREFS="LT13185" BASELINE="353 398 1087 414" HPOS="352" VPOS="377" WIDTH="735" HEIGHT="48">
+            <Shape><Polygon POINTS="353 398 352 408 1085 425 1087 414 1086 394 969 398 757 388 621 386 600 387 564 384 533 381 506 381 442 380 408 377 377 383 354 382 353 386"/></Shape>
+	    <String CONTENT="autẽ mansã quã fur quidã ante possiderat a rege cũ .xxx. auri man" HPOS="352" VPOS="377" WIDTH="735" HEIGHT="48"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc730e61" TAGREFS="LT13185" BASELINE="353 427 1073 441" HPOS="353" VPOS="409" WIDTH="722" HEIGHT="39">
+            <Shape><Polygon POINTS="353 437 1075 448 1073 441 1075 423 353 409 353 427"/></Shape>
+	    <String CONTENT="cusis emit. Wudestun p̾fatus p̾sul a rege mutuauit dans uillam" HPOS="353" VPOS="409" WIDTH="722" HEIGHT="39"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67102e3f" TAGREFS="LT13185" BASELINE="354 453 697 464 1088 467" HPOS="353" VPOS="435" WIDTH="740" HEIGHT="46">
+            <Shape><Polygon POINTS="1038 448 1025 448 1014 447 998 445 981 444 972 445 949 445 927 447 913 446 892 445 871 444 835 445 790 445 356 435 354 453 353 466 392 464 442 468 468 467 484 468 509 468 539 466 548 468 569 468 590 469 621 475 622 475 670 472 704 474 718 475 741 478 774 474 796 478 832 474 897 475 915 475 916 475 921 481 922 481 924 481 925 481 939 477 947 473 973 472 995 475 1018 476 1055 475 1087 477 1091 469 1093 447 1067 448 1054 448 1049 449"/></Shape>
+	    <String CONTENT="Paenigtun in cõmutat̃one. quã Ep̃o suꝑstiti ulsige post obitũ eius" HPOS="353" VPOS="435" WIDTH="740" HEIGHT="46"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76971a0b" TAGREFS="LT13185" BASELINE="351 480 694 493 1089 495" HPOS="351" VPOS="463" WIDTH="739" HEIGHT="47">
+            <Shape><Polygon POINTS="354 493 737 505 965 505 984 507 1033 504 1090 510 1089 495 1090 475 351 463 351 480"/></Shape>
+	    <String CONTENT="ꝯdix̾at. Uiginti quĩq mansas que geakeslea nominant᷑ quas dedit" HPOS="351" VPOS="463" WIDTH="739" HEIGHT="47"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70573e2f" TAGREFS="LT13185" BASELINE="350 510 1085 523" HPOS="349" VPOS="491" WIDTH="737" HEIGHT="45">
+            <Shape><Polygon POINTS="349 521 1083 536 1085 523 1086 508 350 491 350 510"/></Shape>
+	    <String CONTENT="sc̃e dĩ genitͥci sẽꝑq uirgini marie aet Þornige mutuauit a Wulstano" HPOS="349" VPOS="491" WIDTH="737" HEIGHT="45"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93eb25cd" TAGREFS="LT13185" BASELINE="353 536 1088 547" HPOS="351" VPOS="519" WIDTH="740" HEIGHT="40">
+            <Shape><Polygon POINTS="351 544 1091 559 1088 547 1089 535 353 519 353 536"/></Shape>
+	    <String CONTENT="pͥmo cũ .xxiiii. mansis ĩ Wassingatune ĩ sudseaxen rursũq cum" HPOS="351" VPOS="519" WIDTH="740" HEIGHT="40"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99e209bb" TAGREFS="LT13185" BASELINE="353 563 1089 577" HPOS="352" VPOS="543" WIDTH="737" HEIGHT="45">
+            <Shape><Polygon POINTS="352 572 509 575 509 576 522 582 523 582 1087 588 1089 577 1088 556 1034 558 990 556 969 557 953 557 930 556 914 557 900 557 890 556 879 554 865 556 853 553 845 556 833 556 809 556 690 555 675 555 661 556 649 555 636 558 625 550 615 550 610 551 604 549 599 549 595 548 588 549 579 551 575 551 567 551 559 550 550 550 539 548 512 550 495 549 485 547 466 546 450 552 411 547 396 545 353 543 353 563"/></Shape>
+	    <String CONTENT="ille totũ hoc ĩ aliud tͣnsferre moliretur. Ep̃s alt̾am cõꝑacõnẽ cũ .lx." HPOS="352" VPOS="543" WIDTH="737" HEIGHT="45"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef0ee826" TAGREFS="LT13185" BASELINE="352 590 1081 604" HPOS="352" VPOS="571" WIDTH="732" HEIGHT="44">
+            <Shape><Polygon POINTS="352 602 507 604 604 610 665 609 692 608 717 610 735 608 767 614 789 608 822 610 842 612 856 611 869 612 917 611 946 610 970 610 980 612 991 611 1009 613 1045 615 1080 614 1081 604 1084 588 352 571 352 590"/></Shape>
+	    <String CONTENT="purissimi libͥs argenti ab aelfrico supͣnoĩato p̾dc̃as .xxu. mansas" HPOS="352" VPOS="571" WIDTH="732" HEIGHT="44"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9edb88f8" TAGREFS="LT13185" BASELINE="350 617 1085 633" HPOS="349" VPOS="601" WIDTH="738" HEIGHT="42">
+            <Shape><Polygon POINTS="349 627 1083 643 1085 633 1087 617 351 601 350 617"/></Shape>
+	    <String CONTENT="aet twam geakeslean ⁊ aet Fearresheafde comp̃. Nam uillam que" HPOS="349" VPOS="601" WIDTH="738" HEIGHT="42"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a33ea411" TAGREFS="LT13185" BASELINE="351 646 1093 661" HPOS="350" VPOS="626" WIDTH="744" HEIGHT="48">
+            <Shape><Polygon POINTS="350 657 353 661 353 662 354 662 355 662 356 662 449 658 473 664 474 664 475 664 572 661 573 661 574 661 637 667 638 667 672 663 676 663 681 663 753 670 755 670 791 666 800 665 816 666 869 669 885 668 905 667 929 666 948 669 967 671 996 671 1025 671 1054 672 1091 674 1093 661 1094 643 873 638 859 641 767 636 657 634 642 633 635 632 621 634 607 632 596 632 581 631 561 631 547 632 531 632 510 630 489 631 479 631 462 629 442 627 425 629 408 634 387 627 352 626 351 646"/></Shape>
+	    <String CONTENT="Beruwe ĩ Lindesige noĩatur. idem Ep̃c a rege p̾fato cũ .xl. meri ar-" HPOS="350" VPOS="626" WIDTH="744" HEIGHT="48"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a705930c" TAGREFS="LT13185" BASELINE="349 674 1094 687" HPOS="348" VPOS="652" WIDTH="746" HEIGHT="45">
+            <Shape><Polygon POINTS="348 688 1091 697 1094 687 1094 673 349 652 349 674"/></Shape>
+	    <String CONTENT="genti libͥs emendo cõꝑauit. ⁊ insuꝑ mun̾a sͥ multo hac pecunia cari-" HPOS="348" VPOS="652" WIDTH="746" HEIGHT="45"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2264e5ad" TAGREFS="LT13185" BASELINE="349 703 1084 715" HPOS="349" VPOS="688" WIDTH="735" HEIGHT="39">
+            <Shape><Polygon POINTS="349 714 1081 727 1084 715 1083 695 350 688 349 703"/></Shape>
+	    <String CONTENT="ora ꝓ eadem addidit tellure. Eccl̃iam autẽ in huntandune cũ ci-" HPOS="349" VPOS="688" WIDTH="735" HEIGHT="39"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ea0273f" TAGREFS="LT13185" BASELINE="350 731 776 738 1081 743" HPOS="346" VPOS="715" WIDTH="734" HEIGHT="38">
+            <Shape><Polygon POINTS="346 741 1077 753 1080 741 1078 725 348 715 348 730"/></Shape>
+	    <String CONTENT="miterio ⁊ trib agelluli mansis rex p̾fatꝰ supͣdc̃o monast̾io ob et̾ne" HPOS="346" VPOS="715" WIDTH="734" HEIGHT="38"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_391bdbb1" TAGREFS="LT13185" BASELINE="350 757 1090 771" HPOS="349" VPOS="739" WIDTH="743" HEIGHT="45">
+            <Shape><Polygon POINTS="349 768 1092 784 1090 771 1089 752 967 748 876 747 845 752 822 746 795 749 781 749 770 749 757 748 750 748 747 748 741 747 736 746 724 746 713 746 708 745 699 744 689 743 677 744 664 744 654 744 650 743 643 744 637 742 630 743 626 743 618 742 607 741 598 743 588 743 582 741 579 742 570 741 561 742 553 742 547 744 537 740 521 741 514 742 507 741 493 741 469 739 450 742 437 743 427 742 399 742 382 742 351 739 350 757"/></Shape>
+	    <String CONTENT="b̃itudinis p̾miũ gratulabundꝰ et̾na largitꝰ est h̾editate. Hoc excepto" HPOS="349" VPOS="739" WIDTH="743" HEIGHT="45"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f0c46d5" TAGREFS="LT13185" BASELINE="350 785 1071 796" HPOS="349" VPOS="767" WIDTH="722" HEIGHT="43">
+            <Shape><Polygon POINTS="349 797 1069 810 1071 796 1071 777 351 767 350 785"/></Shape>
+	    <String CONTENT="supͣnoĩata rura om̃ia mutuauit uł emit a rege uł possessorib" HPOS="349" VPOS="767" WIDTH="722" HEIGHT="43"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a93e952" TAGREFS="LT13185" BASELINE="348 812 1091 824" HPOS="346" VPOS="795" WIDTH="746" HEIGHT="43">
+            <Shape><Polygon POINTS="346 822 1089 838 1091 824 1092 809 348 795 348 812"/></Shape>
+	    <String CONTENT="maiori minori ue precio. Piscuaria u̾o ĩ cͥcuitu uillulaꝵ Willan .s." HPOS="346" VPOS="795" WIDTH="746" HEIGHT="43"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d3f7ebc" TAGREFS="LT13185" BASELINE="346 840 1075 853" HPOS="346" VPOS="821" WIDTH="729" HEIGHT="45">
+            <Shape><Polygon POINTS="346 847 1074 866 1075 853 1075 837 346 821 346 840"/></Shape>
+	    <String CONTENT="⁊ Eolum p̾fatꝰ emit Ep̃c cũ .xx. libͥs ac una libra. ĩ quib ꝑ singl̃os" HPOS="346" VPOS="821" WIDTH="729" HEIGHT="45"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_244a8191" TAGREFS="LT13185" BASELINE="342 865 1106 882" HPOS="341" VPOS="848" WIDTH="766" HEIGHT="43">
+            <Shape><Polygon POINTS="341 878 1104 891 1106 882 1107 863 343 848 342 865"/></Shape>
+	    <String CONTENT="annos .xui. milia anguillaꝵ capiũt᷑. Cuiꝰ medietatẽ capture .uiii." HPOS="341" VPOS="848" WIDTH="766" HEIGHT="43"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ded5f933" TAGREFS="LT13185" BASELINE="336 893 694 900 1105 908" HPOS="333" VPOS="870" WIDTH="771" HEIGHT="53">
+            <Shape><Polygon POINTS="1085 881 1069 881 1052 881 1035 881 1022 880 992 880 985 880 969 880 964 878 335 870 335 891 333 905 1100 923 1104 906 1102 881 1085 881"/></Shape>
+	    <String CONTENT=".s. milia ad Þornig. similit̾ ⁊ .uiii. milia ad Burh annuatĩ distribui" HPOS="333" VPOS="870" WIDTH="771" HEIGHT="53"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb96618e" TAGREFS="LT13185" BASELINE="344 922 1105 938" HPOS="344" VPOS="902" WIDTH="761" HEIGHT="52">
+            <Shape><Polygon POINTS="349 929 1063 952 1065 954 1104 948 1105 938 1104 915 344 902 344 922"/></Shape>
+	    <String CONTENT="idem cõcessit ep̃s. Quartã qͦq ꝑtem stagni quod solito Witlesmere" HPOS="344" VPOS="902" WIDTH="761" HEIGHT="52"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d586fc7" TAGREFS="LT13185" BASELINE="345 951 1086 965" HPOS="344" VPOS="927" WIDTH="742" HEIGHT="52">
+            <Shape><Polygon POINTS="344 962 1083 979 1086 965 1085 946 1062 947 1045 947 1027 947 1011 946 982 951 957 945 944 947 922 946 899 943 880 944 864 942 852 943 835 942 808 944 773 942 760 943 749 940 731 941 714 942 701 942 678 940 660 938 650 938 634 938 616 939 606 938 590 939 573 937 550 934 539 935 531 935 519 935 510 938 498 937 484 934 470 936 457 935 442 931 420 927 385 931 345 929 345 950"/></Shape>
+	    <String CONTENT="noĩat᷑ ac duo piscuaria decẽq mutuata sũt iugera de Þornig ui-" HPOS="344" VPOS="927" WIDTH="742" HEIGHT="52"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cc9565a" TAGREFS="LT13185" BASELINE="344 981 1081 996" HPOS="343" VPOS="960" WIDTH="738" HEIGHT="53">
+            <Shape><Polygon POINTS="343 990 375 991 404 991 420 991 432 993 450 993 459 994 480 995 506 998 537 995 554 995 575 993 605 996 620 996 641 997 698 1002 714 1004 775 1000 817 1001 838 1003 875 1002 897 1002 911 1003 926 1002 946 1002 966 1002 976 1011 1013 1009 1035 1011 1056 1013 1075 1012 1080 1005 1081 996 1081 980 344 960 344 981"/></Shape>
+	    <String CONTENT="del̃t ad Burh ꝓ cõmutac̃one .C.xx. porcoꝵ pascualiũ ac ꝓ domoꝵ" HPOS="343" VPOS="960" WIDTH="738" HEIGHT="53"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_333c3ca3" TAGREFS="LT13185" BASELINE="341 1010 1073 1025" HPOS="341" VPOS="990" WIDTH="732" HEIGHT="46">
+            <Shape><Polygon POINTS="341 1021 1071 1036 1073 1025 1073 1011 1051 1013 1010 1007 975 1011 966 1001 892 1001 843 1002 709 1001 620 995 573 993 502 997 443 992 391 994 341 990 341 1010"/></Shape>
+	    <String CONTENT="sepiũ ⁊ stabuloꝵ. Sint gͥ donanti dño nr̃o ih̃u xp̃o eiꝰq genitͥci" HPOS="341" VPOS="990" WIDTH="732" HEIGHT="46"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca8b74d6" TAGREFS="LT13185" BASELINE="343 1036 725 1048 1080 1052" HPOS="342" VPOS="1020" WIDTH="740" HEIGHT="43">
+            <Shape><Polygon POINTS="342 1051 1079 1063 1080 1052 1082 1036 344 1020 343 1036"/></Shape>
+	    <String CONTENT="semꝑq uͥgini marie a p̾dc̃o rege ⁊ Ep̃o ꝑpetualit̾ rep̾sentata om" HPOS="342" VPOS="1020" WIDTH="740" HEIGHT="43"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_546147e8" TAGREFS="LT13185" BASELINE="343 1064 1071 1081" HPOS="342" VPOS="1047" WIDTH="729" HEIGHT="42">
+            <Shape><Polygon POINTS="342 1074 1071 1089 1071 1081 1071 1065 346 1047 343 1064"/></Shape>
+	    <String CONTENT="ni terrene iugo s̾uitutis libera trib exceptis. rata uidel̃t expedi" HPOS="342" VPOS="1047" WIDTH="729" HEIGHT="42"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b1305b6" TAGREFS="LT13185" BASELINE="342 1093 1068 1107" HPOS="341" VPOS="1073" WIDTH="728" HEIGHT="44">
+            <Shape><Polygon POINTS="341 1104 344 1107 344 1108 345 1108 346 1108 350 1106 398 1104 501 1106 530 1107 609 1108 642 1111 680 1108 733 1109 780 1113 847 1113 873 1117 899 1112 924 1115 936 1114 960 1112 988 1114 1008 1117 1032 1115 1067 1116 1069 1108 1067 1088 1046 1089 1021 1090 994 1086 980 1086 961 1088 944 1088 930 1086 905 1085 886 1083 858 1086 845 1086 832 1087 821 1087 810 1086 804 1084 797 1083 785 1079 775 1079 765 1083 759 1082 757 1082 753 1082 742 1082 730 1082 708 1082 692 1083 677 1084 661 1082 636 1080 603 1079 580 1078 572 1078 528 1080 507 1079 469 1077 443 1077 425 1076 382 1076 342 1073 342 1093"/></Shape>
+	    <String CONTENT="cione pontis arcisue restaurac̃one. Si quis gͥ hanc nr̃am do" HPOS="341" VPOS="1073" WIDTH="728" HEIGHT="44"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_feceee13" TAGREFS="LT13185" BASELINE="342 1122 1075 1136" HPOS="342" VPOS="1100" WIDTH="733" HEIGHT="47">
+            <Shape><Polygon POINTS="342 1131 973 1145 1029 1147 1074 1144 1075 1136 1074 1115 1033 1115 1017 1116 1002 1115 996 1115 986 1114 977 1114 969 1112 955 1111 930 1115 909 1112 893 1113 881 1115 865 1115 842 1111 818 1115 789 1113 770 1113 752 1108 729 1107 703 1108 674 1109 649 1106 637 1106 633 1106 624 1106 609 1106 589 1106 576 1105 568 1105 550 1104 436 1103 374 1103 342 1100 342 1122"/></Shape>
+	    <String CONTENT="nac̃onem ĩ aliud qͣm ꝯstituimꝰ tͣnsferre uolu̾it. pͥuatꝰ ꝯsorcio sc̃e" HPOS="342" VPOS="1100" WIDTH="733" HEIGHT="47"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b1c1bec" TAGREFS="LT13185" BASELINE="341 1150 1091 1163" HPOS="340" VPOS="1131" WIDTH="752" HEIGHT="44">
+            <Shape><Polygon POINTS="1053 1145 340 1131 341 1150 340 1160 355 1166 356 1166 358 1166 465 1163 558 1159 861 1174 1090 1175 1091 1163 1092 1139 1086 1138 1074 1138"/></Shape>
+	    <String CONTENT="dĩ eccl̃ie. et̾nis baratri incendiis lugubris cũ Iuda xp̃i ꝓditore eiꝰq" HPOS="340" VPOS="1131" WIDTH="752" HEIGHT="44"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5acc8f11" TAGREFS="LT13185" BASELINE="340 1177 1077 1192" HPOS="339" VPOS="1158" WIDTH="740" HEIGHT="48">
+            <Shape><Polygon POINTS="339 1191 1075 1206 1077 1192 1079 1177 620 1163 340 1158 340 1177"/></Shape>
+	    <String CONTENT="complicib puniat᷑ si nõ satisfactione emendau̾it cõgrua qđ con" HPOS="339" VPOS="1158" WIDTH="740" HEIGHT="48"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dc8c886" TAGREFS="LT13185" BASELINE="339 1206 1088 1220" HPOS="338" VPOS="1189" WIDTH="751" HEIGHT="41">
+            <Shape><Polygon POINTS="338 1216 856 1228 901 1227 1087 1230 1088 1220 1089 1204 338 1189 339 1206"/></Shape>
+	    <String CONTENT="tra nr̃m deliquit decretũ. Anno Dñice Incarnarcõis .DCCCC.lxxiii." HPOS="338" VPOS="1189" WIDTH="751" HEIGHT="41"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77372846" TAGREFS="LT13185" BASELINE="333 1234 1076 1247" HPOS="333" VPOS="1212" WIDTH="743" HEIGHT="48">
+            <Shape><Polygon POINTS="333 1244 396 1243 595 1251 711 1254 760 1253 797 1250 808 1253 827 1255 844 1256 865 1255 989 1257 1038 1260 1075 1256 1076 1247 1075 1227 1020 1228 999 1228 979 1227 947 1226 918 1227 905 1227 888 1227 870 1227 851 1228 831 1227 806 1225 775 1229 729 1226 700 1228 677 1227 648 1224 613 1221 586 1220 583 1220 568 1220 456 1216 395 1215 338 1212 333 1234"/></Shape>
+	    <String CONTENT="scͥptũ est hoc priuilegiũ pͥmo mee regie dedicac̃onis anno. His" HPOS="333" VPOS="1212" WIDTH="743" HEIGHT="48"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00dec6fa" TAGREFS="LT13185" BASELINE="336 1261 1067 1277" HPOS="245" VPOS="1240" WIDTH="860" HEIGHT="47">
+            <Shape><Polygon POINTS="245 1267 1105 1287 1067 1277 1066 1257 1031 1259 1020 1260 1001 1257 991 1259 968 1257 949 1254 928 1254 921 1254 911 1253 900 1254 885 1255 862 1253 840 1255 825 1255 813 1253 796 1251 750 1254 675 1254 634 1253 544 1249 493 1249 457 1246 436 1244 407 1241 370 1244 336 1240 336 1261"/></Shape>
+	    <String CONTENT="testib ꝯcordantib quoꝵ infra caraxant᷑ uocabula. + Ego Ead" HPOS="245" VPOS="1240" WIDTH="860" HEIGHT="47"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2623e007" TAGREFS="LT13185" BASELINE="334 1291 1089 1304" HPOS="333" VPOS="1268" WIDTH="756" HEIGHT="46">
+            <Shape><Polygon POINTS="919 1287 902 1285 891 1282 874 1284 860 1283 833 1283 830 1282 813 1278 798 1278 793 1277 783 1277 771 1280 753 1279 740 1279 723 1278 704 1275 683 1276 671 1275 662 1276 652 1276 639 1277 623 1277 607 1277 595 1276 577 1276 554 1275 445 1270 394 1271 334 1268 334 1291 333 1303 730 1308 782 1311 827 1310 831 1310 832 1310 845 1312 860 1312 881 1311 979 1314 1030 1314 1088 1313 1089 1304 1086 1291 1044 1289 987 1291 959 1284 939 1287"/></Shape>
+	    <String CONTENT="gar tociꝰ Albionis Basileus hoc pͥuilegiũ tanta roboratũ aũcte cru-" HPOS="333" VPOS="1268" WIDTH="756" HEIGHT="46"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c274c6d0" TAGREFS="LT13185" BASELINE="335 1318 1078 1334" HPOS="335" VPOS="1301" WIDTH="743" HEIGHT="47">
+            <Shape><Polygon POINTS="335 1328 1078 1348 1078 1334 1078 1316 336 1301 335 1318"/></Shape>
+	    <String CONTENT="cis taumate cõfirmaui + Ego Dunstan Dorou̾nensis eccl̃ie ar-" HPOS="335" VPOS="1301" WIDTH="743" HEIGHT="47"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a25c47a0" TAGREFS="LT13185" BASELINE="334 1345 1070 1363" HPOS="334" VPOS="1328" WIDTH="739" HEIGHT="51">
+            <Shape><Polygon POINTS="334 1354 656 1364 879 1370 912 1370 961 1379 975 1375 991 1372 1018 1373 1033 1374 1040 1374 1056 1375 1069 1372 1070 1363 1073 1345 336 1328 334 1345"/></Shape>
+	    <String CONTENT="chiep̃c hoc idem cũ tropheo agie crucis corroboraui. + Ego Oswold" HPOS="334" VPOS="1328" WIDTH="739" HEIGHT="51"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7e25391" TAGREFS="LT13185" BASELINE="332 1372 803 1386 1094 1388" HPOS="331" VPOS="1347" WIDTH="765" HEIGHT="56">
+            <Shape><Polygon POINTS="331 1381 597 1394 598 1394 626 1388 642 1395 643 1395 644 1396 908 1396 957 1403 958 1403 1096 1399 1094 1388 1096 1375 1040 1374 1026 1377 1011 1372 962 1378 920 1371 662 1361 647 1361 646 1360 639 1354 638 1354 637 1354 636 1354 596 1359 592 1358 587 1358 501 1351 500 1351 475 1355 409 1348 408 1348 372 1353 365 1347 364 1347 363 1347 362 1347 332 1352 332 1372"/></Shape>
+	    <String CONTENT="Eboracensis ecc̃ie archiep̃c subscripsi. + Ego Adelwold ep̃s ꝯsignaui." HPOS="331" VPOS="1347" WIDTH="765" HEIGHT="56"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70ecb2dd" TAGREFS="LT13185" BASELINE="339 1398 1084 1420" HPOS="338" VPOS="1379" WIDTH="746" HEIGHT="49">
+            <Shape><Polygon POINTS="338 1411 1080 1428 1084 1420 1083 1403 340 1379 339 1398"/></Shape>
+	    <String CONTENT="+ Ego Alfstan p̾sul faui + Ego Alfstan antistes assensi. + Ego Ad-" HPOS="338" VPOS="1379" WIDTH="746" HEIGHT="49"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5407228" TAGREFS="LT13185" BASELINE="336 1425 678 1440 1083 1447" HPOS="335" VPOS="1406" WIDTH="751" HEIGHT="58">
+            <Shape><Polygon POINTS="335 1442 393 1446 416 1449 438 1454 473 1454 496 1451 522 1453 537 1448 549 1448 569 1451 582 1456 595 1454 613 1456 630 1456 649 1456 666 1458 693 1458 713 1456 717 1455 737 1454 755 1453 769 1454 788 1455 797 1458 807 1458 826 1458 835 1458 845 1454 852 1458 865 1456 875 1456 900 1456 890 1455 918 1455 1084 1464 1083 1447 1086 1424 1014 1427 929 1423 855 1425 825 1424 783 1418 764 1418 742 1420 727 1418 714 1418 708 1420 696 1422 685 1420 676 1417 663 1420 656 1418 649 1416 641 1415 623 1415 600 1413 578 1414 542 1412 502 1413 430 1411 336 1406 336 1425"/></Shape>
+	    <String CONTENT="ulf pontifex concessi. + Ego aescwic abb̃̃ nõ renui. ⁊ cet̾a noĩa ĩ pͥncipͦ" HPOS="335" VPOS="1406" WIDTH="751" HEIGHT="58"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_faefe9b8" TAGREFS="LT13185" BASELINE="914 1478 1076 1481" HPOS="914" VPOS="1456" WIDTH="162" HEIGHT="41">
+            <Shape><Polygon POINTS="914 1478 919 1494 1073 1497 1076 1481 1075 1461 1026 1461 991 1456 976 1458 968 1459 959 1458 950 1457 947 1456 935 1457 920 1457 914 1476"/></Shape>
+	    <String CONTENT="libri cõtenta." HPOS="914" VPOS="1456" WIDTH="162" HEIGHT="41"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
