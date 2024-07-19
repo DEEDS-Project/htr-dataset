@@ -6,19 +6,19 @@
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>32_67990_default.jpg</fileName>
-      <fileIdentifier>https://iiif.irht.cnrs.fr/iiif/France/Avranches/Bibliotheque_municipale/500256201_MS0210/DEPOT/500256201_MS0210_033/full/full/0/default.jpg</fileIdentifier>
+      <fileIdentifier>mets//avranches-0210.zip/32_67990_default.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
-    
+    <OtherTag ID="BT14832" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT14833" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT14834" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT14835" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14836" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT14837" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT6244" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6245" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6246" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="3072"
           HEIGHT="4608"
-          PHYSICAL_IMG_NR="29"
+          PHYSICAL_IMG_NR="7"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -30,18 +30,12 @@
                    WIDTH="2246"
                    HEIGHT="3403"
                    ID="eSc_textblock_56b8a315"
-                   >
+                   TAGREFS="BT14833">
           <Shape><Polygon POINTS="677 345 677 3748 2923 3748 2923 345"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_8eae6cb0"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="778 552 1254 550 2721 506" 
                     HPOS="775"
                     VPOS="406"
@@ -58,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_e6578342"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="780 716 1991 686 2716 678" 
                     HPOS="778"
                     VPOS="599"
@@ -75,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_276de669"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="785 885 2723 849" 
                     HPOS="783"
                     VPOS="778"
@@ -92,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_611fc0a9"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="783 1044 2716 1013" 
                     HPOS="778"
                     VPOS="952"
@@ -109,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_eb256b10"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="780 1218 2664 1185" 
                     HPOS="778"
                     VPOS="1121"
@@ -126,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_e24e4505"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="780 1382 2723 1346" 
                     HPOS="778"
                     VPOS="1280"
@@ -143,7 +137,7 @@
           
           
           <TextLine ID="eSc_line_d84f738a"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="783 1553 1856 1533 2777 1528" 
                     HPOS="780"
                     VPOS="1456"
@@ -160,7 +154,7 @@
           
           
           <TextLine ID="eSc_line_7a9826b8"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="783 1720 2211 1694 2718 1697" 
                     HPOS="780"
                     VPOS="1620"
@@ -177,7 +171,7 @@
           
           
           <TextLine ID="eSc_line_68cba381"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="783 1884 2711 1853" 
                     HPOS="780"
                     VPOS="1779"
@@ -194,7 +188,7 @@
           
           
           <TextLine ID="eSc_line_f1375fd1"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="785 2053 2718 2030" 
                     HPOS="783"
                     VPOS="1961"
@@ -211,7 +205,7 @@
           
           
           <TextLine ID="eSc_line_3804fc04"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="783 2222 2754 2196" 
                     HPOS="780"
                     VPOS="2129"
@@ -228,7 +222,7 @@
           
           
           <TextLine ID="eSc_line_5f17d28f"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="778 2375 2736 2362" 
                     HPOS="775"
                     VPOS="2288"
@@ -245,7 +239,7 @@
           
           
           <TextLine ID="eSc_line_1cf3e2a8"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="783 2549 2744 2529" 
                     HPOS="780"
                     VPOS="2455"
@@ -262,7 +256,7 @@
           
           
           <TextLine ID="eSc_line_1850e02c"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="791 2718 2728 2703" 
                     HPOS="788"
                     VPOS="2631"
@@ -279,7 +273,7 @@
           
           
           <TextLine ID="eSc_line_cd373cf5"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="793 2882 2728 2872" 
                     HPOS="791"
                     VPOS="2803"
@@ -296,7 +290,7 @@
           
           
           <TextLine ID="eSc_line_5ad989ef"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="791 3041 2728 3033" 
                     HPOS="788"
                     VPOS="2945"
@@ -313,7 +307,7 @@
           
           
           <TextLine ID="eSc_line_a2721dc6"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="791 3205 2739 3205" 
                     HPOS="791"
                     VPOS="3141"
@@ -330,24 +324,58 @@
           
           
           <TextLine ID="eSc_line_4ee78e39"
-                    
-                    BASELINE="793 3379 2752 3384" 
-                    HPOS="791"
-                    VPOS="3264"
-                    WIDTH="1961"
-                    HEIGHT="208">
-            <Shape><Polygon POINTS="791 3407 880 3422 883 3422 1095 3409 1144 3407 1149 3409 1213 3443 1216 3443 1218 3445 1408 3445 1408 3443 1410 3443 1413 3443 1461 3409 1469 3407 1630 3407 1640 3412 1704 3443 1707 3443 1774 3445 1776 3448 1868 3448 1868 3445 1871 3445 1927 3415 2007 3420 2042 3445 2045 3445 2048 3445 2050 3448 2097 3472 2129 3445 2132 3445 2135 3445 2183 3415 2216 3412 2234 3412 2240 3412 2255 3425 2257 3425 2260 3425 2263 3425 2344 3415 2444 3443 2447 3443 2449 3443 2452 3443 2455 3443 2483 3425 2524 3435 2526 3435 2529 3435 2531 3435 2577 3417 2705 3438 2708 3438 2711 3438 2749 3415 2752 3384 2752 3299 2657 3289 2654 3289 2652 3289 2649 3289 2636 3299 2606 3320 2501 3299 2498 3299 2496 3299 2493 3299 2480 3310 2462 3299 2449 3289 2447 3289 2444 3289 2316 3289 2314 3289 2311 3289 2309 3289 2296 3299 2255 3322 2237 3310 2234 3310 2232 3310 2229 3310 2119 3322 2030 3299 2027 3299 2024 3299 2022 3299 1976 3325 1812 3325 1694 3307 1692 3307 1625 3320 1602 3302 1600 3302 1597 3302 1594 3302 1592 3302 1538 3320 1492 3302 1489 3302 1487 3302 1274 3320 1239 3299 1226 3289 1223 3289 1221 3289 1218 3289 1216 3289 1190 3299 1152 3312 1126 3299 1108 3287 1105 3287 1057 3264 970 3287 967 3287 965 3287 939 3299 896 3317 793 3299 793 3379"/></Shape>
-	    <String CONTENT="latione. Qualit̃ a gargano; sacͣ s̃t pignora deportata. Interea; mis-"
-                    HPOS="791"
-                    VPOS="3264"
-                    WIDTH="1961"
-                    HEIGHT="208"></String>
+                    TAGREFS="LT6244"
+                    BASELINE="793 3379 1048 3380" 
+                    HPOS="787"
+                    VPOS="3306"
+                    WIDTH="257"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="791 3375 787 3413 1040 3406 1044 3379 1044 3313 791 3306 791 3375"/></Shape>
+	    <String CONTENT="latione."
+                    HPOS="787"
+                    VPOS="3306"
+                    WIDTH="257"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2a8aca6"
+                    TAGREFS="LT6246"
+                    BASELINE="1057 3380 2359 3383" 
+                    HPOS="1056"
+                    VPOS="3279"
+                    WIDTH="1301"
+                    HEIGHT="188">
+            <Shape><Polygon POINTS="1163 3425 1167 3425 1224 3463 1228 3463 1232 3463 1236 3467 1386 3467 1386 3463 1390 3463 1393 3463 1451 3425 1463 3425 1712 3463 1716 3467 1885 3467 1885 3463 1889 3463 1893 3463 1893 3459 1927 3429 1931 3425 1996 3429 2019 3429 2062 3463 2065 3463 2069 3463 2073 3463 2077 3463 2165 3429 2169 3429 2353 3429 2357 3379 2357 3306 2208 3283 2204 3283 1989 3298 1789 3310 1766 3290 1754 3283 1754 3279 1751 3279 1747 3279 1532 3279 1528 3279 1524 3279 1520 3279 1520 3283 1512 3287 1486 3313 1271 3313 1213 3283 1205 3279 1201 3279 1198 3279 1194 3279 1190 3279 1136 3310 1059 3279 1056 3379 1056 3425"/></Shape>
+	    <String CONTENT="Qualit̃ a gargano; sacͣ s̃t pignora deportata."
+                    HPOS="1056"
+                    VPOS="3279"
+                    WIDTH="1301"
+                    HEIGHT="188"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b40d7d88"
+                    TAGREFS="LT6244"
+                    BASELINE="2387 3383 2752 3384" 
+                    HPOS="2380"
+                    VPOS="3271"
+                    WIDTH="369"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="2380 3429 2745 3421 2749 3383 2749 3294 2699 3279 2695 3279 2691 3279 2615 3287 2507 3298 2384 3271 2384 3379"/></Shape>
+	    <String CONTENT="Interea; mis-"
+                    HPOS="2380"
+                    VPOS="3271"
+                    WIDTH="369"
+                    HEIGHT="158"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_e99873b4"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="791 3543 2767 3543" 
                     HPOS="791"
                     VPOS="3476"
@@ -363,6 +391,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

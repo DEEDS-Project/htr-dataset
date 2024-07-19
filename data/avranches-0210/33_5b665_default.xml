@@ -6,19 +6,19 @@
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>33_5b665_default.jpg</fileName>
-      <fileIdentifier>https://iiif.irht.cnrs.fr/iiif/France/Avranches/Bibliotheque_municipale/500256201_MS0210/DEPOT/500256201_MS0210_034/full/full/0/default.jpg</fileIdentifier>
+      <fileIdentifier>mets//avranches-0210.zip/33_5b665_default.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
-    
+    <OtherTag ID="BT14832" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT14833" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT14834" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT14835" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14836" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT14837" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT6244" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6245" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6246" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="3128"
           HEIGHT="4592"
-          PHYSICAL_IMG_NR="30"
+          PHYSICAL_IMG_NR="8"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -30,18 +30,12 @@
                    WIDTH="2140"
                    HEIGHT="3330"
                    ID="eSc_textblock_7b55fd11"
-                   >
+                   TAGREFS="BT14833">
           <Shape><Polygon POINTS="313 348 313 3678 2453 3678 2453 348"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_4f1df6f5"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="385 510 2263 528" 
                     HPOS="382"
                     VPOS="448"
@@ -58,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_c6e46a62"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="385 670 2306 683" 
                     HPOS="382"
                     VPOS="596"
@@ -75,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_be2b214a"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="380 844 2293 852" 
                     HPOS="377"
                     VPOS="770"
@@ -92,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_cb86ad88"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="375 1007 2283 1017" 
                     HPOS="372"
                     VPOS="928"
@@ -109,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_ac952a5f"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="377 1168 2265 1181" 
                     HPOS="375"
                     VPOS="1056"
@@ -126,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_e2935d3d"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="380 1336 2250 1346" 
                     HPOS="377"
                     VPOS="1265"
@@ -143,7 +137,7 @@
           
           
           <TextLine ID="eSc_line_6e370fe6"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="377 1512 2309 1523" 
                     HPOS="377"
                     VPOS="1431"
@@ -160,7 +154,7 @@
           
           
           <TextLine ID="eSc_line_687cb108"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="377 1676 2319 1688" 
                     HPOS="375"
                     VPOS="1596"
@@ -177,7 +171,7 @@
           
           
           <TextLine ID="eSc_line_cd39dfec"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="375 1841 2275 1852" 
                     HPOS="375"
                     VPOS="1765"
@@ -194,7 +188,7 @@
           
           
           <TextLine ID="eSc_line_7f63078a"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="377 2015 2301 2030" 
                     HPOS="375"
                     VPOS="1938"
@@ -211,7 +205,7 @@
           
           
           <TextLine ID="eSc_line_0fe6c6ba"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="382 2178 2309 2188" 
                     HPOS="382"
                     VPOS="2107"
@@ -228,7 +222,7 @@
           
           
           <TextLine ID="eSc_line_8811b255"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="382 2341 2342 2352" 
                     HPOS="382"
                     VPOS="2267"
@@ -245,7 +239,7 @@
           
           
           <TextLine ID="eSc_line_d8d362dc"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="382 2517 2319 2517" 
                     HPOS="382"
                     VPOS="2421"
@@ -262,7 +256,7 @@
           
           
           <TextLine ID="eSc_line_f192da61"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="382 2678 2306 2686" 
                     HPOS="380"
                     VPOS="2607"
@@ -279,7 +273,7 @@
           
           
           <TextLine ID="eSc_line_dc75529b"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="385 2849 2342 2857" 
                     HPOS="382"
                     VPOS="2778"
@@ -296,7 +290,7 @@
           
           
           <TextLine ID="eSc_line_e62be011"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="395 3015 2314 3025" 
                     HPOS="392"
                     VPOS="2947"
@@ -313,7 +307,7 @@
           
           
           <TextLine ID="eSc_line_67f44a56"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="398 3171 1107 3186 2326 3183" 
                     HPOS="395"
                     VPOS="3102"
@@ -330,7 +324,7 @@
           
           
           <TextLine ID="eSc_line_a21ea949"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="400 3344 2301 3352" 
                     HPOS="398"
                     VPOS="3278"
@@ -347,7 +341,7 @@
           
           
           <TextLine ID="eSc_line_2493b81f"
-                    
+                    TAGREFS="LT6244"
                     BASELINE="403 3497 1232 3515 2334 3507" 
                     HPOS="403"
                     VPOS="3431"
@@ -363,6 +357,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
