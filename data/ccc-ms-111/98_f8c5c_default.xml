@@ -6,76 +6,36 @@
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>98_f8c5c_default.jpg</fileName>
-      <fileIdentifier>mets//export_doc2704_cambridge_corpus_christi_college_alto_202306032346_btgIIL8.zip/98_f8c5c_default.jpg</fileIdentifier>
+      <fileIdentifier>mets//ccc-ms-111.zip/98_f8c5c_default.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2744" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT2743" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT2742" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT2741" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT2740" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
-    <OtherTag ID="LT11940" LABEL="default" DESCRIPTION="line type default"/>
+    <OtherTag ID="BT14874" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT14875" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT14876" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14877" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14878" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT6267" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6268" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6269" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="5890"
           HEIGHT="8360"
-          PHYSICAL_IMG_NR="3"
+          PHYSICAL_IMG_NR="1"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
                   WIDTH="5890"
                   HEIGHT="8360">
         
-        <TextBlock HPOS="332"
-                   VPOS="467"
-                   WIDTH="4876"
-                   HEIGHT="7148"
+        <TextBlock HPOS="431"
+                   VPOS="550"
+                   WIDTH="3936"
+                   HEIGHT="6916"
                    ID="eSc_textblock_e0849c32"
-                   >
-          <Shape><Polygon POINTS="332 467 332 7615 5208 7615 5208 467"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_42723d73"
-                    
-                    BASELINE="4214 2748 5152 2760" 
-                    HPOS="4203"
-                    VPOS="2566"
-                    WIDTH="948"
-                    HEIGHT="255">
-            <Shape><Polygon POINTS="4203 2821 5144 2793 5151 2758 5151 2577 4946 2582 4698 2583 4656 2583 4542 2570 4451 2566 4371 2570 4312 2582 4210 2596 4210 2744"/></Shape>
-	    <String CONTENT="De Eccl̃ia de"
-                    HPOS="4203"
-                    VPOS="2566"
-                    WIDTH="948"
-                    HEIGHT="255"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_1c6c0501"
-                    
-                    BASELINE="4244 2944 5152 2971" 
-                    HPOS="4231"
-                    VPOS="2794"
-                    WIDTH="920"
-                    HEIGHT="251">
-            <Shape><Polygon POINTS="4231 3023 5148 3045 5151 2967 5133 2827 4990 2842 4801 2827 4658 2824 4578 2823 4467 2794 4392 2811 4319 2832 4238 2814 4238 2939"/></Shape>
-	    <String CONTENT="Bahentona."
-                    HPOS="4231"
-                    VPOS="2794"
-                    WIDTH="920"
-                    HEIGHT="251"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
+                   TAGREFS="BT14874">
+          <Shape><Polygon POINTS="514 550 431 7450 4232 7466 4367 647"/></Shape>
           
           
           <TextLine ID="eSc_line_711815ef"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="543 757 4434 829" 
                     HPOS="535"
                     VPOS="557"
@@ -92,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_3457ec27"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="543 1007 4296 1086" 
                     HPOS="538"
                     VPOS="859"
@@ -109,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_70e3e89c"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="534 1258 4171 1309" 
                     HPOS="529"
                     VPOS="1114"
@@ -126,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_00f84263"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="538 1495 4259 1569" 
                     HPOS="534"
                     VPOS="1325"
@@ -143,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_a22a7b8f"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="543 1750 4208 1806" 
                     HPOS="538"
                     VPOS="1583"
@@ -160,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_6c8164ea"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="520 1983 4203 2052" 
                     HPOS="515"
                     VPOS="1820"
@@ -177,7 +137,7 @@
           
           
           <TextLine ID="eSc_line_946845cd"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="506 2238 4194 2303" 
                     HPOS="501"
                     VPOS="2062"
@@ -194,41 +154,75 @@
           
           
           <TextLine ID="eSc_line_fd996df2"
-                    TAGREFS="LT11940"
-                    BASELINE="520 2489 4268 2554" 
-                    HPOS="515"
-                    VPOS="2322"
-                    WIDTH="3753"
-                    HEIGHT="297">
-            <Shape><Polygon POINTS="515 2526 687 2505 861 2513 967 2563 1147 2573 1151 2573 1292 2579 1463 2549 1858 2586 1862 2586 2643 2568 2931 2605 2935 2605 3065 2586 3284 2610 3288 2610 3451 2582 3567 2610 3572 2610 3576 2610 3581 2610 3627 2586 3864 2610 3869 2610 3874 2610 3925 2591 3999 2619 4004 2619 4008 2619 4264 2591 4268 2554 4268 2433 4031 2424 3943 2377 3939 2377 3934 2377 3232 2410 3200 2410 3144 2410 2104 2345 2099 2345 2094 2345 1988 2382 1941 2350 1937 2350 1932 2350 1927 2350 1923 2350 1918 2350 1871 2382 1867 2387 1844 2382 1588 2336 1583 2336 1142 2368 1073 2373 803 2368 794 2364 664 2322 659 2322 654 2322 650 2322 520 2354 520 2489"/></Shape>
-	    <String CONTENT="dedit uxor ipsiꝰ defuncti. lx. solidos. necnon &amp; missale. Carta"
-                    HPOS="515"
-                    VPOS="2322"
-                    WIDTH="3753"
-                    HEIGHT="297"></String>
+                    TAGREFS="LT6267"
+                    BASELINE="520 2489 3834 2546" 
+                    HPOS="508"
+                    VPOS="2305"
+                    WIDTH="3325"
+                    HEIGHT="300">
+            <Shape><Polygon POINTS="3805 2389 3722 2354 3715 2354 3708 2354 3345 2389 3297 2347 3290 2347 3283 2347 3276 2347 2760 2382 2739 2382 2732 2382 2592 2333 2586 2333 2335 2333 2328 2333 2321 2333 2314 2333 2258 2375 2244 2375 2070 2340 2063 2340 2056 2340 1979 2368 1944 2340 1944 2333 1937 2333 1930 2333 1923 2333 1777 2368 1763 2368 1756 2368 1665 2319 1658 2319 1651 2319 1059 2354 1010 2354 982 2354 662 2305 655 2305 648 2305 515 2340 515 2487 508 2563 3819 2605 3833 2542 3833 2535 3805 2389"/></Shape>
+	    <String CONTENT="dedit uxor ipsiꝰ defuncti. lx. solidos. necnon &amp; missale."
+                    HPOS="508"
+                    VPOS="2305"
+                    WIDTH="3325"
+                    HEIGHT="300"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2d0d953"
+                    TAGREFS="LT6268"
+                    BASELINE="3835 2546 4268 2554" 
+                    HPOS="3826"
+                    VPOS="2382"
+                    WIDTH="439"
+                    HEIGHT="230">
+            <Shape><Polygon POINTS="3833 2542 3826 2605 4251 2612 4265 2549 4265 2438 4077 2382 4070 2382 4063 2382 3861 2431 3833 2528"/></Shape>
+	    <String CONTENT="Carta"
+                    HPOS="3826"
+                    VPOS="2382"
+                    WIDTH="439"
+                    HEIGHT="230"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_8ea2d004"
-                    TAGREFS="LT11940"
-                    BASELINE="806 2749 4166 2809" 
+                    TAGREFS="LT6267"
+                    BASELINE="806 2749 2746 2784" 
                     HPOS="794"
                     VPOS="2556"
-                    WIDTH="3367"
-                    HEIGHT="335">
-            <Shape><Polygon POINTS="794 2800 1184 2849 1300 2863 1491 2821 1547 2821 4147 2891 4161 2807 4154 2646 3422 2647 3227 2605 3220 2605 3213 2605 3206 2605 3206 2612 3178 2640 3101 2605 3094 2605 3087 2605 2878 2633 2843 2598 2829 2591 2829 2584 2823 2584 2816 2584 2809 2584 2802 2584 2746 2598 2704 2612 2690 2598 2669 2584 2669 2577 2662 2577 2655 2577 2648 2577 2641 2577 2586 2598 2516 2626 1923 2626 1868 2598 1833 2584 1826 2584 1819 2584 1749 2598 1665 2612 1617 2598 1512 2556 1505 2556 1300 2586 801 2591 801 2744"/></Shape>
-	    <String CONTENT="vill̃mꝰ gr̃a dei Exoniensis ep̃c. Will̃i exoniens̃ ep̃i."
+                    WIDTH="1945"
+                    HEIGHT="286">
+            <Shape><Polygon POINTS="801 2744 794 2800 2725 2842 2739 2779 2739 2591 2613 2577 2606 2577 2599 2577 2592 2577 2579 2591 2516 2633 2467 2598 2460 2598 2453 2598 2446 2598 1672 2619 1589 2591 1484 2556 1477 2556 1470 2556 801 2591 801 2744"/></Shape>
+	    <String CONTENT="vill̃mꝰ gr̃a dei Exoniensis ep̃c."
                     HPOS="794"
                     VPOS="2556"
-                    WIDTH="3367"
-                    HEIGHT="335"></String>
+                    WIDTH="1945"
+                    HEIGHT="286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc48d279"
+                    TAGREFS="LT6268"
+                    BASELINE="2750 2784 4166 2809" 
+                    HPOS="2739"
+                    VPOS="2584"
+                    WIDTH="1422"
+                    HEIGHT="307">
+            <Shape><Polygon POINTS="2739 2842 4147 2891 4161 2807 4154 2612 3457 2640 2746 2584 2746 2779"/></Shape>
+	    <String CONTENT="Will̃i exoniens̃ ep̃i."
+                    HPOS="2739"
+                    VPOS="2584"
+                    WIDTH="1422"
+                    HEIGHT="307"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_cef9eed6"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="743 3014 4120 3042" 
                     HPOS="738"
                     VPOS="2856"
@@ -245,7 +239,7 @@
           
           
           <TextLine ID="eSc_line_9abd5e9a"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="473 3251 4189 3283" 
                     HPOS="469"
                     VPOS="3093"
@@ -262,7 +256,7 @@
           
           
           <TextLine ID="eSc_line_bed83789"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="487 3501 4292 3557" 
                     HPOS="483"
                     VPOS="3348"
@@ -279,7 +273,7 @@
           
           
           <TextLine ID="eSc_line_0a71282c"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="487 3757 2048 3808 4166 3836" 
                     HPOS="483"
                     VPOS="3597"
@@ -296,7 +290,7 @@
           
           
           <TextLine ID="eSc_line_6bf2bd3e"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="483 4008 1230 4045 4292 4105" 
                     HPOS="478"
                     VPOS="3887"
@@ -313,7 +307,7 @@
           
           
           <TextLine ID="eSc_line_b837c08e"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="469 4249 2968 4323 4259 4333" 
                     HPOS="464"
                     VPOS="4110"
@@ -330,7 +324,7 @@
           
           
           <TextLine ID="eSc_line_ac78959b"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="464 4509 4185 4598" 
                     HPOS="459"
                     VPOS="4351"
@@ -347,7 +341,7 @@
           
           
           <TextLine ID="eSc_line_6e42f687"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="469 4779 4324 4862" 
                     HPOS="464"
                     VPOS="4616"
@@ -364,7 +358,7 @@
           
           
           <TextLine ID="eSc_line_8906d4d9"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="464 5029 4282 5104" 
                     HPOS="459"
                     VPOS="4853"
@@ -381,7 +375,7 @@
           
           
           <TextLine ID="eSc_line_6919a8b0"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="469 5294 4124 5382" 
                     HPOS="464"
                     VPOS="5146"
@@ -398,7 +392,7 @@
           
           
           <TextLine ID="eSc_line_1972d8a9"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="483 5564 4101 5638" 
                     HPOS="483"
                     VPOS="5396"
@@ -415,7 +409,7 @@
           
           
           <TextLine ID="eSc_line_867b410b"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="469 5824 2076 5861 4115 5870" 
                     HPOS="469"
                     VPOS="5680"
@@ -432,7 +426,7 @@
           
           
           <TextLine ID="eSc_line_2c5a2620"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="473 6051 2485 6107 4148 6107" 
                     HPOS="469"
                     VPOS="5903"
@@ -449,7 +443,7 @@
           
           
           <TextLine ID="eSc_line_3d4366c4"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="464 6311 4185 6348" 
                     HPOS="464"
                     VPOS="6149"
@@ -466,7 +460,7 @@
           
           
           <TextLine ID="eSc_line_ffd6fa33"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="473 6544 4138 6599" 
                     HPOS="469"
                     VPOS="6390"
@@ -483,7 +477,7 @@
           
           
           <TextLine ID="eSc_line_a4b15b42"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="473 6804 4143 6850" 
                     HPOS="473"
                     VPOS="6636"
@@ -500,7 +494,7 @@
           
           
           <TextLine ID="eSc_line_5f74d218"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="473 7040 4162 7110" 
                     HPOS="473"
                     VPOS="6878"
@@ -517,7 +511,7 @@
           
           
           <TextLine ID="eSc_line_96327dc3"
-                    TAGREFS="LT11940"
+                    TAGREFS="LT6267"
                     BASELINE="469 7296 4162 7338" 
                     HPOS="464"
                     VPOS="7157"
@@ -533,6 +527,72 @@
 
           
         </TextBlock>
+        
+        <TextBlock HPOS="4169"
+                   VPOS="2507"
+                   WIDTH="1125"
+                   HEIGHT="595"
+                   ID="eSc_textblock_4e08ca20"
+                   TAGREFS="BT14876">
+          <Shape><Polygon POINTS="5294 3102 5294 2507 4169 2507 4169 3102"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_42723d73"
+                    TAGREFS="LT6267"
+                    BASELINE="4214 2748 5152 2760" 
+                    HPOS="4203"
+                    VPOS="2566"
+                    WIDTH="948"
+                    HEIGHT="255">
+            <Shape><Polygon POINTS="4203 2821 5144 2793 5151 2758 5151 2577 4946 2582 4698 2583 4656 2583 4542 2570 4451 2566 4371 2570 4312 2582 4210 2596 4210 2744"/></Shape>
+	    <String CONTENT="De Eccl̃ia de"
+                    HPOS="4203"
+                    VPOS="2566"
+                    WIDTH="948"
+                    HEIGHT="255"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c6c0501"
+                    TAGREFS="LT6267"
+                    BASELINE="4244 2944 5152 2971" 
+                    HPOS="4231"
+                    VPOS="2794"
+                    WIDTH="920"
+                    HEIGHT="251">
+            <Shape><Polygon POINTS="4231 3023 5148 3045 5151 2967 5133 2827 4990 2842 4801 2827 4658 2824 4578 2823 4467 2794 4392 2811 4319 2832 4238 2814 4238 2939"/></Shape>
+	    <String CONTENT="Bahentona."
+                    HPOS="4231"
+                    VPOS="2794"
+                    WIDTH="920"
+                    HEIGHT="251"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="83"
+                   VPOS="2407"
+                   WIDTH="728"
+                   HEIGHT="976"
+                   ID="eSc_textblock_9ec55fc5"
+                   TAGREFS="BT14875">
+          <Shape><Polygon POINTS="83 2407 83 3383 811 3383 811 2407"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4980"
+                   VPOS="273"
+                   WIDTH="662"
+                   HEIGHT="281"
+                   ID="eSc_textblock_e40caf06"
+                   TAGREFS="BT14878">
+          <Shape><Polygon POINTS="5642 554 5642 273 4980 273 4980 554"/></Shape>
+          
+        </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
