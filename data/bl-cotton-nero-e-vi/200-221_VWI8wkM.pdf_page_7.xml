@@ -6,66 +6,32 @@
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>200-221_VWI8wkM.pdf_page_7.jpg</fileName>
-      <fileIdentifier>pdf//200-221_VWI8wkM.pdf</fileIdentifier>
+      <fileIdentifier>mets//bl-cotton-nero-e-vi.zip/200-221_VWI8wkM.pdf_page_7.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1677" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
-    <OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/>
+    <OtherTag ID="BT14839" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT14840" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14841" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT14842" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT14843" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT14844" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT14845" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14847" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/>
+    <OtherTag ID="LT6247" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6248" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6249" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="2448"
           HEIGHT="3264"
-          PHYSICAL_IMG_NR="6"
+          PHYSICAL_IMG_NR="18"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
                   WIDTH="2448"
                   HEIGHT="3264">
         
-        <TextBlock HPOS="54"
-                   VPOS="326"
-                   WIDTH="1890"
-                   HEIGHT="2848"
-                   ID="eSc_textblock_d99e8f25"
-                   >
-          <Shape><Polygon POINTS="1694 413 1717 407 1717 436 1765 443 1769 454 1787 454 1787 590 1831 590 1831 594 1825 598 1944 3141 367 3174 141 3141 54 554 76 522 454 489 489 348 1153 326 1324 348 1360 424"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_a8648fe2"
-                    
-                    BASELINE="476 440 1321 392" 
-                    HPOS="473"
-                    VPOS="326"
-                    WIDTH="846"
-                    HEIGHT="141">
-            <Shape><Polygon POINTS="1313 345 1286 342 1259 340 1232 334 1204 331 1177 329 1150 326 1123 326 1096 326 1068 326 1041 329 1025 329 984 348 859 353 835 334 824 334 796 337 769 337 767 337 750 359 723 359 693 340 688 340 660 340 633 342 606 342 579 342 552 345 524 345 505 345 492 353 473 405 475 437 475 451 573 467 576 467 579 467 614 448 696 459 699 459 701 459 704 459 731 443 742 437 826 437 1017 443 1019 443 1085 429 1147 416 1316 418 1319 391 1313 345 1313 345"/></Shape>
-	    <String CONTENT="¶Westhurrok. ¶Purflete."
-                    HPOS="473"
-                    VPOS="326"
-                    WIDTH="846"
-                    HEIGHT="141"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_cb601d2b"
-                    
-                    BASELINE="1890 456 2067 456" 
-                    HPOS="1890"
-                    VPOS="364"
-                    WIDTH="177"
-                    HEIGHT="193">
-            <Shape><Polygon POINTS="2053 364 2015 391 1890 367 1890 456 1895 557 1950 522 2061 557 2067 456 2059 364 2053 364"/></Shape>
-	    <String CONTENT="folio stiĩ"
-                    HPOS="1890"
-                    VPOS="364"
-                    WIDTH="177"
-                    HEIGHT="193"></String>
-          </TextLine>
-
+        <TextBlock HPOS="28"
+                   VPOS="426"
+                   WIDTH="1937"
+                   HEIGHT="2756"
+                   ID="eSc_textblock_3c856ae8"
+                   TAGREFS="BT14839">
+          <Shape><Polygon POINTS="28 481 28 3182 1965 3182 1847 978 1818 426"/></Shape>
           
           
           <TextLine ID="eSc_line_4b8aaefd"
@@ -681,28 +647,28 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2230"
-                   VPOS="239"
-                   WIDTH="150"
-                   HEIGHT="73"
-                   ID="eSc_textblock_75c3172f"
-                   >
-          <Shape><Polygon POINTS="2358 312 2230 312 2241 239 2347 239 2380 280"/></Shape>
+        <TextBlock HPOS="423"
+                   VPOS="329"
+                   WIDTH="907"
+                   HEIGHT="110"
+                   ID="eSc_textblock_b899b6b0"
+                   TAGREFS="BT14839">
+          <Shape><Polygon POINTS="423 329 423 439 1330 439 1330 329"/></Shape>
           
           
-          <TextLine ID="eSc_line_4608bd7a"
-                    
-                    BASELINE="2227 304 2366 296" 
-                    HPOS="2224"
-                    VPOS="239"
-                    WIDTH="142"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="2360 291 2336 247 2254 239 2252 239 2249 239 2224 288 2227 304 2227 331 2366 312 2366 296 2360 288 2360 291"/></Shape>
-	    <String CONTENT="203"
-                    HPOS="2224"
-                    VPOS="239"
-                    WIDTH="142"
-                    HEIGHT="92"></String>
+          <TextLine ID="eSc_line_a8648fe2"
+                    TAGREFS="LT6249"
+                    BASELINE="476 440 1321 392" 
+                    HPOS="473"
+                    VPOS="326"
+                    WIDTH="846"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="1286 342 1259 340 1232 334 1204 331 1177 329 1150 326 1123 326 1096 326 1068 326 1041 329 1025 329 984 348 859 353 835 334 824 334 796 337 769 337 767 337 750 359 723 359 693 340 688 340 660 340 633 342 606 342 579 342 552 345 524 345 505 345 492 353 473 405 475 437 475 451 573 467 576 467 579 467 614 448 696 459 699 459 701 459 704 459 731 443 742 437 826 437 1017 443 1019 443 1085 429 1147 416 1316 418 1319 391 1313 345"/></Shape>
+	    <String CONTENT="¶Westhurrok. ¶Purflete."
+                    HPOS="473"
+                    VPOS="326"
+                    WIDTH="846"
+                    HEIGHT="141"></String>
           </TextLine>
 
           
@@ -713,8 +679,52 @@
                    WIDTH="373"
                    HEIGHT="253"
                    ID="eSc_textblock_cd9ab4de"
-                   >
+                   TAGREFS="BT14840">
           <Shape><Polygon POINTS="1756 322 1763 429 1861 454 1859 575 2129 559 2129 322"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cb601d2b"
+                    
+                    BASELINE="1890 456 2067 456" 
+                    HPOS="1890"
+                    VPOS="364"
+                    WIDTH="177"
+                    HEIGHT="193">
+            <Shape><Polygon POINTS="2053 364 2015 391 1890 367 1890 456 1895 557 1950 522 2061 557 2067 456 2059 364 2053 364"/></Shape>
+	    <String CONTENT="folio stiĩ"
+                    HPOS="1890"
+                    VPOS="364"
+                    WIDTH="177"
+                    HEIGHT="193"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2230"
+                   VPOS="239"
+                   WIDTH="150"
+                   HEIGHT="73"
+                   ID="eSc_textblock_75c3172f"
+                   TAGREFS="BT14841">
+          <Shape><Polygon POINTS="2358 312 2230 312 2241 239 2347 239 2380 280"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4608bd7a"
+                    
+                    BASELINE="2227 304 2366 296" 
+                    HPOS="2224.0"
+                    VPOS="239.0"
+                    WIDTH="142.0"
+                    HEIGHT="92.0">
+            <Shape><Polygon POINTS="2360 291 2336 247 2254 239 2252 239 2249 239 2224 288 2227 304 2227 331 2366 312 2366 296 2360 288 2360 291"/></Shape>
+	    <String CONTENT="203"
+                    HPOS="2224.0"
+                    VPOS="239.0"
+                    WIDTH="142.0"
+                    HEIGHT="92.0"></String>
+          </TextLine>
+
           
         </TextBlock>
         
