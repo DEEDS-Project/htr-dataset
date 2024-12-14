@@ -78,23 +78,6 @@
 
           
           
-          <TextLine ID="eSc_line_b1db3eb5"
-                    TAGREFS="LT6926"
-                    BASELINE="356 292 994 299" 
-                    HPOS="353"
-                    VPOS="236"
-                    WIDTH="640"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="355 291 353 296 720 310 721 310 808 303 831 311 833 311 835 311 991 303 993 298 991 243 833 256 648 251 641 248 621 238 620 238 618 238 616 238 596 248 591 251 585 248 558 238 556 238 555 238 500 250 478 236 476 236 475 236 473 236 471 236 448 248 428 241 426 241 425 241 355 251 355 291"/></Shape>
-	    <String CONTENT="dicl̃o ue Gete seu qualib̃ arte canendi Geta igit᷑ fuit filius"
-                    HPOS="353"
-                    VPOS="236"
-                    WIDTH="640"
-                    HEIGHT="75"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_80bffd1e"
                     TAGREFS="LT6926"
                     BASELINE="356 322 1015 328" 
